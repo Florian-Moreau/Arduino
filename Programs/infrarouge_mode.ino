@@ -1,7 +1,7 @@
 /*
  * Créateur : Florian MOREAU
  * Date : 04/08/2018
- * Programme : Affiche la température (°C) et l'humidité (%)
+ * Programme : Utilise l'infrarouge pour allumer ou éteindre les diodes
  * Utilisation d'une télécommande infrarouge couplé avec une plaque d'essaie contenant : Capteur infrarouge et 4 diodes
  * Bibliothéque : IRremote
  */
